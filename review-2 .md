@@ -1,2 +1,2 @@
-Mi producto es una aplicación de lista de tareas.
+Mi producto es una aplicación de lista de tareas
 Sirve para ayudar a las personas a organizar y gestionar sus tareas diarias de manera eficiente, lo que les permite ser más productivas y llevar un estilo de vida menos estresante.
